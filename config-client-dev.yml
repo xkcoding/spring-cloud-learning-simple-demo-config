@@ -1,4 +1,3 @@
-spring:
-  application:
-    name: config-client
-    version: v-0.0.1
+demo:
+  name: config-client
+  version: v-0.0.1
